@@ -1,0 +1,1 @@
+C:\Projects\GPC_shmup\GPC_shmup\GPC_shmupContent\obj\x86\Debug\GPC_shmupContent.contentprojResolveAssemblyReference.cache

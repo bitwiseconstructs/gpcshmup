@@ -1,0 +1,9 @@
+C:\Projects\GPC_shmup\GPC_shmup\GPC_shmup\bin\x86\Debug\GPC_shmup.exe
+C:\Projects\GPC_shmup\GPC_shmup\GPC_shmup\bin\x86\Debug\GPC_shmup.pdb
+C:\Projects\GPC_shmup\GPC_shmup\GPC_shmup\obj\x86\Debug\GPC_shmup.csprojResolveAssemblyReference.cache
+C:\Projects\GPC_shmup\GPC_shmup\GPC_shmup\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Projects\GPC_shmup\GPC_shmup\GPC_shmup\obj\x86\Debug\GPC_shmup.exe
+C:\Projects\GPC_shmup\GPC_shmup\GPC_shmup\obj\x86\Debug\GPC_shmup.pdb
+C:\Projects\GPC_shmup\GPC_shmup\GPC_shmup\bin\x86\Debug\Content\character.xnb
+C:\Projects\GPC_shmup\GPC_shmup\GPC_shmup\bin\x86\Debug\Content\bullet.xnb
+C:\Projects\GPC_shmup\GPC_shmup\GPC_shmup\bin\x86\Debug\Content\enemy.xnb
