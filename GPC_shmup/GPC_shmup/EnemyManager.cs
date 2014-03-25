@@ -35,11 +35,9 @@ namespace GPC_shmup
 
             if (gameTime.TotalGameTime - lastTimeEnemySpawned > enemySpawnRate)
             {
-                if (currentScore < 500)
-                {
-                    enemies.Add(new Enemy(new Vector2(1400, RandomHelper.Random.Next(30, 770)), enemyImage));
-                }
-                else
+                enemies.Add(new Enemy(new Vector2(1400, RandomHelper.Random.Next(30, 770)), enemyImage));
+
+                if (currentScore > 500)
                 {
                     enemySpawnRate = new TimeSpan(0, 0, 0, 1, 500);
                 }

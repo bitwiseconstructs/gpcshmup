@@ -7,5 +7,6 @@ namespace GPC_shmup
 {
     public class PowerUp
     {
+        //TODO: implement power ups
     }
 }

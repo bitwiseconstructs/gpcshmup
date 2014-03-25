@@ -26,6 +26,7 @@ namespace GPC_shmup
             _bulletManager = bulletManager;
         }
 
+        //TODO: make this work. Currently is just pseudo code
         //public void SetPowerUp(PowerUp powerUp, bool isPrimary = true)
         //{
         //    if (isPrimary)

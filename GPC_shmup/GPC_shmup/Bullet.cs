@@ -12,12 +12,10 @@ namespace GPC_shmup
         public int Damage { get; set; }
 
         private bool isEnemy;
-        private Vector2 facing;
 
-        public Bullet(Vector2 position, Vector2 facing, Texture2D image, bool isEnemy)
+        public Bullet(Vector2 position, Texture2D image, bool isEnemy)
             : base(position, image)
         {
-            this.facing = facing;
             this.isEnemy = isEnemy;
             this.speed = 800;
         }
@@ -26,7 +24,7 @@ namespace GPC_shmup
         {
             if (normalizedVelocity == Vector2.Zero)
             {
-                normalizedVelocity = facing;
+                normalizedVelocity = isEnemy ? new Vector2(-1, 0) : new Vector2(1, 0);
             }
 
             base.Update(gameTime);
