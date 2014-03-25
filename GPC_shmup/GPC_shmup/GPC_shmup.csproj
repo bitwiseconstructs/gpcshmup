@@ -78,6 +78,7 @@
     <Compile Include="Enemy.cs" />
     <Compile Include="EnemyManager.cs" />
     <Compile Include="Entity.cs" />
+    <Compile Include="GameManager.cs" />
     <Compile Include="Paint.cs" />
     <Compile Include="Player.cs" />
     <Compile Include="PowerUp.cs" />
